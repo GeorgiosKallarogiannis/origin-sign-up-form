@@ -105,7 +105,7 @@ form section:first-child {
     padding-inline-start: 0.5rem;
   }
 
-  input:invalid {
+  input:user-invalid {
     border-color: #ff0000;
   }
 }
